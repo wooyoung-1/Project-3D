@@ -6,7 +6,7 @@
 ![Image](https://github.com/user-attachments/assets/6571200e-bb95-4e35-a536-7f95a90711af)
 
 
-## 아이템 상호작용 / 다양한 아이템 구현
+## 아이템 사용 / 다양한 아이템 구현
 ![Image](https://github.com/user-attachments/assets/e016a6c3-d904-4f87-8bd0-e861dafdabcf)
 
 
